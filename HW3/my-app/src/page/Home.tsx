@@ -107,3 +107,6 @@ const Home: React.FC<HomeProps> = ({ token }) => {
 }
 
 export default Home;
+
+
+// интерцепторы 
